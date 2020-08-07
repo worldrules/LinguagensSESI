@@ -319,6 +319,10 @@ h1.major {
 	padding-bottom: 0.35em;
 }
 
+img {
+	border-radius: 21px;
+}
+
 h1.major:after {
 	background-image: -moz-linear-gradient(to right, black, orange);
 	background-image: -webkit-linear-gradient(to right, black, orange);
